@@ -8,6 +8,11 @@ import com.blz.learning.service.provider.CalculatorServiceProvider;
 
 public class Calculator {
 
+	// This is Scanner Class
+
+	/*
+	 * @author: Kalpesh
+	 */
 	private static final Scanner SC = new Scanner(System.in);
 
 	public final strictfp static void main(String[] args) {
